@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a BBQ app.
+- 🌱 I’m currently learning Redux.
+- ⚡ Fun fact: My Berlin flat doesn't have heating.
 
 <!--
 **Julian120892/Julian120892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
